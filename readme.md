@@ -13,6 +13,8 @@ Skjölun á föllum og breytum notar [`jsdoc`](https://jsdoc.app/). Einnig er _a
 
 Fyrir inntak og til að birta notendum gögn skal nota `alert` `confirm` og `prompt` föllin ásamt `console`.
 
+Vefur skal vera prófaður og virka í nýjustu útgáfum af Firefox og Chrome.
+
 ## Skæri, blað, steinn
 
 Boðið skal upp á að spila skæri, blað, steinn ef farið er í `console` og kallað í `play()` fallið.

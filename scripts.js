@@ -55,7 +55,7 @@ function round() {
   // TODO útfæra
   // 1. Spyrja um hvað spilað, ef cancel, hætta
   // 2. Ef ógilt, tölva vinnur
-  // 3. Velja gildi fyrir tölvu með `Math.floor(Math.random() * 2 + 1)` sem skilar heiltölu á [1, 3]
+  // 3. Velja gildi fyrir tölvu með `Math.floor(Math.random() * 3) + 1` sem skilar heiltölu á [1, 3]
   // 4. Nota `checkGame()` til að finna hver vann
   // 5. Birta hver vann
   // 6. Skila hver vann
